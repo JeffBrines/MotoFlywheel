@@ -16,13 +16,12 @@ This tool proves it mathematically.
 
 Analyzes two separate effects:
 
-### 1. Engine Rotational Inertia (What You FEEL)
+### 1. Engine Rotational Inertia 
 - Outer placement: **20%+ more rotational inertia**
 - Effects: Smoother power delivery, less stalling, better traction
 - **Very perceptible** to riders
 
-### 2. Gyroscopic Handling (What You DON'T Feel)
-- **Not perceptible** in steering/handling
+### 2. Gyroscopic Handling 
 - Wheels dominate gyroscopic effects (84-97% depending on speed)
 
 ### Key Physics Insight
