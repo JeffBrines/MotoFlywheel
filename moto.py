@@ -11,7 +11,7 @@ This script proves mathematically that weight placement (inner vs outer)
 significantly affects engine response but has negligible impact on handling.
 
 Author: Created for motorcycle physics analysis
-License: MIT
+License: I don't care. Steal this if you want. 
 """
 
 import argparse
