@@ -22,7 +22,6 @@ Analyzes two separate effects:
 - **Very perceptible** to riders
 
 ### 2. Gyroscopic Handling (What You DON'T Feel)
-- Outer vs inner placement: **<15% difference** at all realistic speeds
 - **Not perceptible** in steering/handling
 - Wheels dominate gyroscopic effects (84-97% depending on speed)
 
